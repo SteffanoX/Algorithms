@@ -14,3 +14,9 @@
 12. Binary Search
 13. First Bad Version
 14. Search Insert Position
+15. Squares of a Sorted Array
+16. Rotate Array
+17. Move Zeroes
+18. Two Sum II
+19. Reverse String
+20. Reverse Word in String
